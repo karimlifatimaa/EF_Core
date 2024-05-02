@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\services\\abstracts\\iemployeesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\services\\abstracts\\iemployeesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\services\\concretes\\employeesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\services\\concretes\\employeesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|c:\\users\\user1\\onedrive\\desktop\\ef_core\\er_core\\er_core\\migrations\\20240502201830_createemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF38A3D-8778-42C5-ABE0-FAB2167B0E0E}|ER_Core\\ER_Core.csproj|solutionrelative:er_core\\migrations\\20240502201830_createemployeestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployeesServices.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Services\\Abstracts\\IEmployeesServices.cs",
+              "RelativeDocumentMoniker": "ER_Core\\Services\\Abstracts\\IEmployeesServices.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Services\\Abstracts\\IEmployeesServices.cs",
+              "RelativeToolTip": "ER_Core\\Services\\Abstracts\\IEmployeesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:02:29.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Controller\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ER_Core\\Controller\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Controller\\EmployeesController.cs",
+              "RelativeToolTip": "ER_Core\\Controller\\EmployeesController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:22:16.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesServices.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Services\\Concretes\\EmployeesServices.cs",
+              "RelativeDocumentMoniker": "ER_Core\\Services\\Concretes\\EmployeesServices.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Services\\Concretes\\EmployeesServices.cs",
+              "RelativeToolTip": "ER_Core\\Services\\Concretes\\EmployeesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:24:51.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240502201830_createEmployeesTable.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Migrations\\20240502201830_createEmployeesTable.cs",
+              "RelativeDocumentMoniker": "ER_Core\\Migrations\\20240502201830_createEmployeesTable.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Migrations\\20240502201830_createEmployeesTable.cs",
+              "RelativeToolTip": "ER_Core\\Migrations\\20240502201830_createEmployeesTable.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:18:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ER_Core\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ER_Core\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:18:26.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Program.cs",
+              "RelativeDocumentMoniker": "ER_Core\\Program.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Program.cs",
+              "RelativeToolTip": "ER_Core\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:17:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ER_Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\EF_Core\\ER_Core\\ER_Core\\Models\\Employee.cs",
+              "RelativeToolTip": "ER_Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:22:39.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
